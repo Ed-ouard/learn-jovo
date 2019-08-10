@@ -157,7 +157,7 @@ Save the file and run the Jovo Webhook. It's time to test. Open up the Jovo Debu
 
 ## The Google Assistant Media Response
 
-> [Learn more abou the Google Action Media Response interface](https://www.jovo.tech/docs/google-assistant/media-response).
+> [Learn more about the Google Action Media Response interface](https://www.jovo.tech/docs/google-assistant/media-response).
 
 The Google Assistant Media Response works a little different than Alexa's AudioPlayer, but there's a similarity. Just like Alexa you get into an AudioPlayer state (not the official name) after starting to stream the audio file using the Media Response interface.
 
