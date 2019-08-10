@@ -27,7 +27,7 @@ $ jovo new PodcastPlayer
 
 This will create a new Jovo project into the folder `PodcastPlayer`. You can go into the folder like this:
 
-```text
+```text 
 $ cd PodcastPlayer
 ```
 
@@ -112,7 +112,7 @@ Let’s do the same for our Google Action.
 
 ### On Google Assistant
 
-> [Learn more abou the Google Action Media Response interface](https://www.jovo.tech/docs/google-assistant/media-response).
+> [Learn more about the Google Action Media Response interface](https://www.jovo.tech/docs/google-assistant/media-response).
 
 Google Actions offer a similar interface, the [Media Response API](https://www.jovo.tech/docs/google-assistant/media-response), to play audio files. Again, we will take care of the setup process in [Step 3: Preparing the Development Environment](./step-3-development-environment.md), and focus on the implementation for now.
 
